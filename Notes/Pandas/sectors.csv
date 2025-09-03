@@ -1,0 +1,12 @@
+label,category,name
+COMM,TECHCOMM,Communication Services
+CNDI,CON,Consumer Discretionary
+CNST,CON,Consumer Staples
+ENGY,ENGYUTIL,Energy
+FIN,FINRE,Financials
+HLTH,HLTH,Health Care
+IND,INDMAT,Industrials
+TECH,TECHCOMM,Information Technology
+MAT,INDMAT,Materials
+RE,FINRE,Real Estate
+UTIL,ENGYUTIL,Utilities

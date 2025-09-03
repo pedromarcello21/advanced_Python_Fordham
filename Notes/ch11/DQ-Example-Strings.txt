@@ -1,0 +1,8 @@
+id|address
+1|Bronx,NY
+2|New Haven,CT
+3|Chicago,IL
+4|Monterey, CA 
+5|Washington
+6|Nashville,XX
+7|
